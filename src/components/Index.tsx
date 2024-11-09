@@ -1,0 +1,1 @@
+// component dipakai satu kali

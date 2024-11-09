@@ -1,0 +1,1 @@
+// component halaman masukkin sini untuk nanti dipanggil di folder halaman di app
